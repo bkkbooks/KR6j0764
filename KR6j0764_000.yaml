@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6j0764/t/v1/juan/0
+seq: 0
+front:
+  text: 蘇悉地羯羅經請問品第一
+  hash: sha256:f11d5e5b207a9895aee957d830c98007737c91d5ac023524bb570405d469793c
+  markers:
+  - {type: 品, offset: 0, content: 1 請問品, id: KR6j0764_T_000-mulu-1, 'n': '1', level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蘇悉地羯羅經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0893c.xml
+    old_id: T18n0893c
+hash: sha256:d96970898932b9da92cae1eda00973c7ce9cf358fb5c969ab46ec014197ad6f3
