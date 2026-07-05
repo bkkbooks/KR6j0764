@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0764_000.yaml, hash: 'sha256:d96970898932b9da92cae1eda00973c7ce9cf358fb5c969ab46ec014197ad6f3'}
-  - {seq: 1, filename: KR6j0764_001.yaml, hash: 'sha256:296bb9e6626acef28071001fdd00da065ef43bdc8cbdab14672999089cf81faa'}
-  - {seq: 2, filename: KR6j0764_002.yaml, hash: 'sha256:c281bc7b82f3fcfd3083cebba83e718d52ed7464dff40bb9e390b973e5a4786a'}
-  - {seq: 3, filename: KR6j0764_003.yaml, hash: 'sha256:3cee74a6e1732799a2f07743f2e9a0859a2d8c196ff3e6b84841bfbf93a84753'}
+  - {seq: 1, filename: KR6j0764_001.yaml, hash: 'sha256:9a59aea225b0488661905288d76ad96641f95b8a0e597cb4f88e0559931bf49d'}
+  - {seq: 2, filename: KR6j0764_002.yaml, hash: 'sha256:fe426aecbde6091ab32434496e8181a0b467b92fc08ac1e7017723fc3d5a6957'}
+  - {seq: 3, filename: KR6j0764_003.yaml, hash: 'sha256:3d1c28b4b5af03cf410ee40190a797363c7e4ed84cdde8c39ae980bc198d47d1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0764_001.markers.yaml, hash: 'sha256:a0802287795bae6b5f55eb527894a28dc9ff977aee7cae986ddf1d6010952fe7'}
-  - {seq: 2, role: markers, filename: assets/KR6j0764_002.markers.yaml, hash: 'sha256:dc54deb652f316258d3ea3d47897e1d374d6c85d76bbd12cac6a88e6d76b0a9d'}
-  - {seq: 3, role: markers, filename: assets/KR6j0764_003.markers.yaml, hash: 'sha256:d472af066e07ea4d18508320cbb2f0c1a36623b5d5d9660d48e84cf2b7f39faa'}
+  - {seq: 0, role: markers, filename: assets/KR6j0764_000.markers.yaml, hash: 'sha256:2fa1b85a557a03efd0cfaed1c0e9d642a9f13ad58c75301a9fe63729a2a880c0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0764_001.markers.yaml, hash: 'sha256:6054bbdf004419043a53ddd279fda608d23469336f1745c16baf101c8d9d9033'}
+  - {seq: 2, role: markers, filename: assets/KR6j0764_002.markers.yaml, hash: 'sha256:802ad0ed23299ac58e6d48bb38564ad686df64ea23583debaa0e5798707faeb2'}
+  - {seq: 3, role: markers, filename: assets/KR6j0764_003.markers.yaml, hash: 'sha256:b795c7b241abedbd997093807bfa609ef42e4be13068542b614c30cf530f5639'}
 table_of_contents:
 - ref:
     seq: 0
@@ -403,7 +404,4 @@ table_of_contents:
   label: 34 光物品
   type: mulu
   level: 1
-hash: sha256:fb85c1c6f664ae30afe808bf7cb8385c0efd11779757ab8f9f0e5d978bbffee2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1eef3683c39bdf7cdfecce3e220aeb6a6245a64eedbc1013231da3cfcb7853fb
